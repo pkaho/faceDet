@@ -1,6 +1,7 @@
+import time
+
 import cv2
 import dlib
-import time
 
 # 人脸关键点检测预训练模型路径
 # 下载地址: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
