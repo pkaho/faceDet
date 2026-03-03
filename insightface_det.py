@@ -58,8 +58,6 @@ def test_with_webcam():
 
 def main():
     """主函数"""
-    # 模型存放位置：C:\Users\panjh\.insightface\models\buffalo_l
-
     test_with_webcam()
 
 if __name__ == "__main__":
